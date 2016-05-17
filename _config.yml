@@ -1,0 +1,31 @@
+# Site settings
+title: Weabo Bullshit
+email: Ethan@Sucks.com
+description: > # Ethan Sucks
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: unmonk
+github_username:  unmonk
+
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+more_vert:
+  option1:
+    name: Cool Option 1
+    link: www.myawesomelink.com
+  option2:
+    name: Cool Option 2
+    link: www.myawesomelink.com
+  option3:
+    name: Cool Option 3
+    link: www.myawesomelink.com
+
+disqus: true
+disqus_shortname: 'gdgmanagua'
+
+# Build settings
+markdown: kramdown
