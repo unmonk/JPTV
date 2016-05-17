@@ -2,15 +2,15 @@
 title: Weabo Bullshit
 email: Ethan@Sucks.com
 description: > # Ethan Sucks
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/weaboo" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 twitter_username: unmonk
 github_username:  unmonk
 
 
 # Layout settings
-header_type: default  # values [ drawer, default ]
-post_type: highlight    # values [ highlight, default ]
+header_type: drawer  # values [ drawer, default ]
+post_type: default    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
 
 more_vert:
@@ -24,8 +24,7 @@ more_vert:
     name: Cool Option 3
     link: www.myawesomelink.com
 
-disqus: true
-disqus_shortname: 'gdgmanagua'
+
 
 # Build settings
 markdown: kramdown
