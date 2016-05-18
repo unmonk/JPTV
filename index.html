@@ -18,8 +18,9 @@ layout: default
           <p>{{ post.excerpt }}</p>
         </div>
         <div class="mdl-card__actions">
-            <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored"id="post-{{post.id}}">
-              <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play circle filled</i></a>
+            <div class="mdl-layout-spacer"></div>
+            <<button class="mdl-button mdl-js-button mdl-button--fab mdl-button--mini-fab" id="post-{{post.id}}">
+              <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
             </button>
 
         </div>
@@ -39,8 +40,9 @@ layout: default
         <p>{{ post.excerpt }}</p>
       </div>
       <div class="mdl-card__actions mdl-card--border">
-          <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored" id="post-{{post.id}}">
-            <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play circle filled</i></a>
+          <div class="mdl-layout-spacer"></div>
+          <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--mini-fab" id="post-{{post.id}}">
+            <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
           </button>
 
       </div>
@@ -66,8 +68,9 @@ layout: default
       </div>
 
       <div class="mdl-card__actions mdl-card--border">
-        <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored" id="post-{{post.id}}">
-            <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play circle filled</i></a>
+        <div class="mdl-layout-spacer"></div>
+        <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--mini-fab" id="post-{{post.id}}">
+            <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
           </button>
 
       </div>
