@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "STAR-1"
+categories: jekyll
+image: http://i.imgur.com/tPSDTbY.jpg
+url: http://unmonk.github.io
+
+---
+Stuffs about Weaboo faggots

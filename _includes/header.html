@@ -5,7 +5,7 @@
       <span class="mdl-layout-title">{{ site.title }}</span>
       <!-- Add spacer, to align navigation to the right -->
       <div class="mdl-layout-spacer"></div>
-      
+
 
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable is-upgraded">
         <label class="mdl-button mdl-js-button mdl-button--icon" for="js-search__input">
@@ -32,6 +32,7 @@
   <div class="mdl-layout__drawer">
     <span class="mdl-layout-title">Menu</span>
     <nav class="mdl-navigation">
+    <a class="mdl-navigation__link" href="{{ site.baseurl }}">{{ site.title }}</a>
     {% for page in site.pages %}
       {% if page.title %}
       <a class="mdl-navigation__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
@@ -40,4 +41,3 @@
     </nav>
 
   </div>
-
