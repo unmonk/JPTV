@@ -18,7 +18,12 @@ layout: default
           <p>{{ post.excerpt }}</p>
         </div>
         <div class="mdl-card__actions">
-            <<button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
+            Server 1
+            <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
+              <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
+            </button>
+            Server 2
+            <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
               <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
             </button>
 
@@ -39,6 +44,11 @@ layout: default
         <p>{{ post.excerpt }}</p>
       </div>
       <div class="mdl-card__actions mdl-card--border">
+          Server 1
+          <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
+            <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
+          </button>
+          Server 2
           <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
             <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
           </button>
@@ -66,9 +76,15 @@ layout: default
       </div>
 
       <div class="mdl-card__actions mdl-card--border">
-        <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
+          Server 1
+          <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
             <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
           </button>
+          Server 2
+          <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
+            <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
+          </button>
+
 
       </div>
 
