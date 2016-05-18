@@ -2,10 +2,8 @@
 title: Weabo Bullshit
 email: Ethan@Sucks.com
 description: > # Ethan Sucks
-baseurl: "/weaboo" # the subpath of your site, e.g. /blog/
+baseurl: "/Weaboo" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-twitter_username: unmonk
-github_username:  unmonk
 
 
 # Layout settings
