@@ -2,8 +2,8 @@
 layout: post
 title:  "WOWOW-1-Prime"
 categories: jekyll
-image: http://i.imgur.com/76AU3W1.jpg
+image: /Weaboo/assets/WOWOW-1-Prime.jpg
 url: http://unmonk.github.io
 
 ---
-Stuffs about Weaboo faggots
+WOWOW-1-Prime

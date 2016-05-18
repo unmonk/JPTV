@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "ANIMAX"
+title:  "KANTO-NHK-G"
 categories: jekyll
-image: /Weaboo/assets/ANIMAX.png
+image: /Weaboo/assets/NHK-G.png
 url: http://unmonk.github.io
 
 ---
-ANIMAX
+KANTO-NHK-G

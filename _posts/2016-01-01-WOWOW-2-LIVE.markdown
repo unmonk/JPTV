@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "WOWOW-2-LIVE"
+categories: jekyll
+image: /Weaboo/assets/WOWOW-2-LIVE.jpg
+url: http://unmonk.github.io
+
+---
+WOWOW-2-LIVE
