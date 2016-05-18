@@ -18,13 +18,13 @@ layout: default
           <p>{{ post.excerpt }}</p>
         </div>
         <div class="mdl-card__actions">
-            Server 1
+            Server 1:
             <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
-              <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
+              <a href="{{post.server1}}"<i class="material-icons">play_arrow</i></a>
             </button>
-            Server 2
+            Server 2:
             <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
-              <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
+              <a href="{{post.server2}}"<i class="material-icons">play_arrow</i></a>
             </button>
 
         </div>
@@ -40,17 +40,16 @@ layout: default
         <h2 class="mdl-card__title-text">{{ post.title }}</h2>
       </div>
       <div class="mdl-card__supporting-text">
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
         <p>{{ post.excerpt }}</p>
       </div>
       <div class="mdl-card__actions mdl-card--border">
-          Server 1
+          Server 1:
           <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
-            <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
+            <a href="{{post.server1}}"<i class="material-icons">play_arrow</i></a>
           </button>
-          Server 2
+          Server 2:
           <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
-            <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
+            <a href="{{post.server2}}"<i class="material-icons">play_arrow</i></a>
           </button>
 
       </div>
@@ -71,18 +70,17 @@ layout: default
         <h2 class="mdl-card__title-text">{{ post.title }}</h2>
       </div>
       <div class="mdl-card__supporting-text">
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
         <p>{{ post.excerpt }}</p>
       </div>
 
       <div class="mdl-card__actions mdl-card--border">
-          Server 1
+          Server 1:
           <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
-            <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
+            <a href="{{post.server1}}"<i class="material-icons">play_arrow</i></a>
           </button>
-          Server 2
+          Server 2:
           <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
-            <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play_arrow</i></a>
+            <a href="{{post.server2}}"<i class="material-icons">play_arrow</i></a>
           </button>
 
 
