@@ -3,7 +3,7 @@ layout: post
 title:  "STAR-1"
 categories: jekyll
 image: http://i.imgur.com/tPSDTbY.jpg
-server1: http://unmonk.github.io
-server2: http://unmonk.github.io
+url: http://unmonk.github.io
+
 ---
 Stuffs about Weaboo faggots

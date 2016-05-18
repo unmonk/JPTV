@@ -3,7 +3,7 @@ layout: post
 title:  "ANIMAX"
 categories: jekyll
 image: https://i.imgur.com/ivwtAYM.jpg
-server1: http://unmonk.github.io
-server2: http://unmonk.github.io
+url: http://unmonk.github.io
+
 ---
 Stuffs about Weaboo faggots
