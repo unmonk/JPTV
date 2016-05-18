@@ -17,6 +17,9 @@ layout: default
           <h4>{{ post.title }}</h4>
           <p>{{ post.excerpt }}</p>
         </div>
+        <button class="mdl-button md-dark mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
+          <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play circle filled</i></a>
+        </button>
         <div class="mdl-card__actions">
             <button class="mdl-button md-dark mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
               <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play circle filled</i></a>
@@ -38,6 +41,9 @@ layout: default
         <span>{{ post.date | date: "%b %-d, %Y" }}</span>
         <p>{{ post.excerpt }}</p>
       </div>
+      <button class="mdl-button md-dark mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
+        <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play circle filled</i></a>
+      </button>
       <div class="mdl-card__actions mdl-card--border">
           <button class="mdl-button md-dark mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
             <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play circle filled</i></a>
@@ -64,6 +70,9 @@ layout: default
         <span>{{ post.date | date: "%b %-d, %Y" }}</span>
         <p>{{ post.excerpt }}</p>
       </div>
+      <button class="mdl-button md-dark mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
+        <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play circle filled</i></a>
+      </button>
       <div class="mdl-card__actions mdl-card--border">
           <button class="mdl-button md-dark mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
             <a href="{{post.url | prepend: site.basurl }}"<i class="material-icons">play circle filled</i></a>
