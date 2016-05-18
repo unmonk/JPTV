@@ -2,7 +2,7 @@
 layout: post
 title:  "STAR-2"
 categories: jekyll
-image: /img/pic1.jpg
+image: http://i.imgur.com/5FD48KY.jpg
 server1: http://unmonk.github.io
 server2: http://unmonk.github.io
 ---
