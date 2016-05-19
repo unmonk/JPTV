@@ -3,7 +3,8 @@ layout: post
 title:  "STAR-2"
 categories: jekyll
 image: http://i.imgur.com/5FD48KY.jpg
-url: http://unmonk.github.io
+main: http://mokodojo.net/yanchaTV.swf?src=http://203.162.76.92:5021/live/191|c03
+mirror: http://mokodojo.net/yanchaTV.swf?src=http://203.162.76.92:5021/live/191|c03
 
 ---
-Stuffs about Weaboo faggots
+STAR-2

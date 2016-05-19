@@ -3,7 +3,8 @@ layout: post
 title:  "WOWOW-2-LIVE"
 categories: jekyll
 image: /Weaboo/assets/WOWOW-2-LIVE.jpg
-url: http://unmonk.github.io
+main: http://mokodojo.net/yanchaTV.swf?src=http://203.162.76.92:5021/live/205|c03
+mirror: http://mokodojo.net/yanchaTV.swf?src=http://113.53.228.67:5021/live/205|c03
 
 ---
 WOWOW-2-LIVE
