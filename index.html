@@ -69,10 +69,6 @@ layout: default
       <div class="mdl-card__title" {% if post.image %} style="background: url('{{ post.image }}') center/cover;" {% endif %}>
         <h2 class="mdl-card__title-text">{{ post.title }}</h2>
       </div>
-      <div class="mdl-card__supporting-text">
-        <p>{{ post.excerpt }}</p>
-      </div>
-
       <div class="mdl-card__actions mdl-card--border">
           Server 1:
           <a href="{{post.main}}">

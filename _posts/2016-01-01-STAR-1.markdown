@@ -2,7 +2,7 @@
 layout: post
 title:  "STAR-1"
 categories: jekyll
-image: http://i.imgur.com/tPSDTbY.jpg
+image: /Weaboo/assets/STAR.jpg
 main: http://mokodojo.net/yanchaTV.swf?src=http://203.162.76.92:5021/live/326|c03
 mirror: http://mokodojo.net/yanchaTV.swf?src=http://113.53.228.67:5021/live/326|c03
 
