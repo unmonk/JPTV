@@ -13,11 +13,11 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Donate
+    name: Donate Bitcoin
     link: #Insert ButtCoin link
   option2:
-    name: Fuck Josh
-    link: www.myawesomelink.com
+    name: Donate Dogecoin
+    link: #Insert
 
 
 
