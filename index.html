@@ -45,7 +45,7 @@ layout: default
       <div class="mdl-card__actions mdl-card--border">
           Server 1:
           <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
-            <a href="{ {post.url }}"<i class="material-icons">play_arrow</i></a>
+            <a href="{{post.url}}"<i class="material-icons">play_arrow</i></a>
           </button>
           Server 2:
           <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
@@ -69,21 +69,19 @@ layout: default
       <div class="mdl-card__title" {% if post.image %} style="background: url('{{ post.image }}') center/cover;" {% endif %}>
         <h2 class="mdl-card__title-text">{{ post.title }}</h2>
       </div>
-      <div class="mdl-card__supporting-text">
-        <p>{{ post.excerpt }}</p>
-      </div>
-
       <div class="mdl-card__actions mdl-card--border">
           Server 1:
-          <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
-            <a href="{{ post.url }}"<i class="material-icons">play_arrow</i></a>
-          </button>
+          <a href="{{post.main}}">
+              <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
+                <i class="material-icons">play_arrow</i>
+              </button>
+          </a>
           Server 2:
-          <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
-            <a href="{{ post.url }}"<i class="material-icons">play_arrow</i></a>
-          </button>
-
-
+          <a href="{{post.mirror}}">
+              <button class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="post-{{post.id}}">
+                <i class="material-icons">play_arrow</i>
+              </button>
+          </a>
       </div>
 
     </div>

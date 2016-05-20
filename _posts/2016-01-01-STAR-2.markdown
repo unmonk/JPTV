@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "STAR-2"
+categories: jekyll
+image: /Weaboo/assets/STAR.jpg
+main: http://mokodojo.net/yanchaTV.swf?src=http://203.162.76.92:5021/live/191|c03
+mirror: http://mokodojo.net/yanchaTV.swf?src=http://203.162.76.92:5021/live/191|c03
+
+---
+STAR-2

@@ -2,8 +2,9 @@
 layout: post
 title:  "ANIMAX"
 categories: jekyll
-image: https://i.imgur.com/ivwtAYM.jpg
-url: http://unmonk.github.io
+image: /Weaboo/assets/ANIMAX.png
+main: http://mokodojo.net/yanchaTV.swf?src=http://203.162.76.92:5021/live/498|c03
+mirror: http://mokodojo.net/yanchaTV.swf?src=http://113.53.228.67:5021/live/498|c03
 
 ---
-Stuffs about Weaboo faggots
+ANIMAX

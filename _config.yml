@@ -1,8 +1,8 @@
 # Site settings
-title: Weabo Bullshit
+title: Live Japanese TV
 email: Ethan@Sucks.com
 description: > # Ethan Sucks
-baseurl: "/Weaboo" # the subpath of your site, e.g. /blog/
+baseurl: "/Weaboo/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 
@@ -13,11 +13,11 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Donate
-    link: www.myawesomelink.com
+    name: Donate Bitcoin
+    link: #Insert ButtCoin link
   option2:
-    name: Fuck Josh
-    link: www.myawesomelink.com
+    name: Donate Dogecoin
+    link: #Insert
 
 
 
