@@ -2,9 +2,9 @@
 layout: post
 title:  "KANTO-NTV"
 categories: jekyll
-image: /Weaboo/assets/NTV.png
-main: http://mokodojo.net/JTV.swf?src=http://203.162.76.92:5021/live/312|c03
-mirror: http://mokodojo.net/JTV.swf?src=http://113.53.228.67:5021/live/312|c03
+image: NTV.png
+main: http://203.162.76.92:5021/live/312|c03
+mirror: http://113.53.228.67:5021/live/312|c03
 
 ---
 KANTO-NTV

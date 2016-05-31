@@ -2,9 +2,9 @@
 layout: post
 title:  "ANIMAX"
 categories: jekyll
-image: /Weaboo/assets/ANIMAX.png
-main: http://mokodojo.net/yanchaTV.swf?src=http://203.162.76.92:5021/live/498|c03
-mirror: http://mokodojo.net/yanchaTV.swf?src=http://113.53.228.67:5021/live/498|c03
+image: ANIMAX.png
+main: http://203.162.76.92:5021/live/498|c03
+mirror: http://113.53.228.67:5021/live/498|c03
 
 ---
 ANIMAX
