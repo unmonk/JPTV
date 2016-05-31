@@ -2,9 +2,9 @@
 layout: post
 title:  "KIDS"
 categories: jekyll
-image: /Weaboo/assets/KIDS.png
-main: http://mokodojo.net/JTV.swf?src=http://203.162.76.92:5021/live/494|c03
-mirror: http://mokodojo.net/JTV.swf?src=http://113.53.228.67:5021/live/494|c03
+image: KIDS.png
+main: http://203.162.76.92:5021/live/494|c03
+mirror: http://113.53.228.67:5021/live/494|c03
 
 ---
 WOWOW-3-Cinema
