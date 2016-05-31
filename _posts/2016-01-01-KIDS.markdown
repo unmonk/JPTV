@@ -3,6 +3,8 @@ layout: post
 title:  "KIDS"
 categories: jekyll
 image: KIDS.png
+
+stream: true
 main: http://203.162.76.92:5021/live/494|c03
 mirror: http://113.53.228.67:5021/live/494|c03
 
