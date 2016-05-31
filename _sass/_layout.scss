@@ -15,8 +15,7 @@
 .mdl-card {
   .mdl-card__title {
     color: #fff;
-    height: 176px;
-    background: url('../img/welcome_card.jpg') center / cover;
+    height: 250px;
   }
 
   .mdl-card__supporting-text > span { color: #9F9F9F; }
@@ -70,8 +69,6 @@
     -ms-flex-pack: center;
     justify-content: center;
     min-height: 200px;
-    background:#EEF2FF url(../assets/fade-blue.png) top center repeat-x;
-    color:#000000;
   }
 
   button {
