@@ -7,6 +7,8 @@
 .page-content{
   max-width: 1200px;
   margin: 0 auto;
+  background:#EEF2FF url(../assets/fade-blue.png) top center repeat-x;
+  color:#000000;
 }
 
 // Cards styles
@@ -68,7 +70,8 @@
     -ms-flex-pack: center;
     justify-content: center;
     min-height: 200px;
-    background: url('../img/welcome_card.jpg') center / cover;
+    background:#EEF2FF url(../assets/fade-blue.png) top center repeat-x;
+    color:#000000;
   }
 
   button {
