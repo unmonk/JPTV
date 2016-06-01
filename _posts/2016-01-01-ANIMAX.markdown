@@ -3,6 +3,8 @@ layout: post
 title:  "ANIMAX"
 categories: jekyll
 image: ANIMAX.png
+
+stream: true
 main: http://203.162.76.92:5021/live/498|c03
 mirror: http://113.53.228.67:5021/live/498|c03
 

@@ -3,8 +3,10 @@ layout: post
 title:  "KANTO-TBS"
 categories: jekyll
 image: TBS.png
-main: http://203.162.76.92:5021/live/314|c03
-mirror: http://113.53.228.67:5021/live/314|c03
+
+kanto: true
+kanto1: http://203.162.76.92:5021/live/314|c03
+kanto2: http://113.53.228.67:5021/live/314|c03
 
 ---
 KANTO-TBS

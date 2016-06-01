@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "NHK-G"
+categories: jekyll
+image: NHK-G.png
+
+kanto: true
+kanto1: http://203.162.76.92:5021/live/309|c03
+kanto2: http://113.53.228.67:5021/live/309|c03
+
+kansai: true
+kansai1: http://203.162.76.92:5021/live/317|c03
+kansai2: http://113.53.228.67:5021/live/317|c03
+
+---
+NHK-G
