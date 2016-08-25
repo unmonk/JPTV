@@ -2,8 +2,8 @@
 title: Live Japanese TV
 email: 
 description: 
-baseurl: "/JPTV/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jptv.me" # the base hostname & protocol for your site
 
 
 # Layout settings
