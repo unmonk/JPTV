@@ -1,9 +1,9 @@
 # Site settings
 title: Live Japanese TV
-email: Ethan@Sucks.com
-description: > # Ethan Sucks
-baseurl: "/Weaboo/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+email: 
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jptv.me" # the base hostname & protocol for your site
 
 
 # Layout settings
@@ -14,10 +14,10 @@ pagination_type: default  # values [ ops, default ]
 more_vert:
   option1:
     name: Donate Bitcoin
-    link: #Insert ButtCoin link
+    link: #Insert link
   option2:
     name: Donate Dogecoin
-    link: #Insert
+    link: #Insert link
 
 
 
